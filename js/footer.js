@@ -1,5 +1,4 @@
-document.writeln("<div class=\'jianju12 clear\'>&nbsp;</div>");
-document.writeln("<div class=\'cen980\'><img src=\'/images/xinnka_70.jpg\' width=\'963\' height=\'95\' /></div>");
+
 document.writeln("<div class=\'jianju12 clear\'>&nbsp;</div>");
 document.writeln(" ");
 document.writeln(" ");
