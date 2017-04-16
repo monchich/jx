@@ -18,7 +18,7 @@ document.writeln("	<span style=\'font-size:14px;\'>电话：<span style=\'white-
 document.writeln("</span> ");
 document.writeln("</p>");
 document.writeln("<p>");
-document.writeln("<img src=\'/images/logor.png\'/>");
+document.writeln("<img style=\'margin-left:-200px;\' src=\'/images/logor.png\'/>");
 document.writeln("</p>");
 document.writeln("</div>");
 document.writeln("</div>");
