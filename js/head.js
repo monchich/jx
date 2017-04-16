@@ -17,7 +17,7 @@ document.writeln("  <div id=\'header\'>");
 document.writeln("    <div class=\'logo\'>");
 document.writeln("   <div class=\'logoleft\'>");
 document.writeln("   <div class=\'logoa\'>");
-document.writeln("   <img src=\'images/logo12.png\' width=\'500\' height=\'145\' /></div></div>");
+document.writeln("   <img src=\'/images/logo12.png\' width=\'500\' height=\'145\' /></div></div>");
 document.writeln("   <div class=\'logoright\'><img src=\'/images/logor.png\' width=\'500\' height=\'100\' /></div>");
 document.writeln("    </div>");
 document.writeln("    <div class=\'menu02\'>");
